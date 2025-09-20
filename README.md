@@ -140,7 +140,7 @@ Average Daily Gain: *+26.75% | *Total Extra Energy: **1.8 kWh/year
 ### 👨‍💻 Author
 Sam EV Tech  
 EV Power Electronics Engineer | Tata IIS Mumbai | ESP32 Developer  
-[GitHub Profile](https://github.com/SamEVTech) | [LinkedIn](https://linkedin.com/in/Sam-EVTech)
+[GitHub Profile](https://github.com/SamEVTec/Dual-Axis-Solar-Tracker) | [LinkedIn](https://linkedin.com/in/Sam-EVTech)
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Working%20Prototype-brightgreen?style=for-the-badge&logo=checkmark&logoColor=white" alt="Status" />
